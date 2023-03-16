@@ -3,7 +3,7 @@
 ## This project enables a user to add tasks to a scheduling calendar that is sectioned into one-hour blocks within a work day.
 
 
-## Link to Project:  
+## Link to Project: https://salahdannaoui.github.io/Daily-Scheduler/
 ## Installation
 
 N/A
